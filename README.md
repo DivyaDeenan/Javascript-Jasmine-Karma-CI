@@ -1,1 +1,1 @@
-[![Build Status](https://img.shields.io/travis/karma-runner/karma/master.svg?style=flat-square)]
+[![Build Status](https://travis-ci.org/DivyaDeenan/Jasmine-Karma-CI.svg?branch=master)](https://travis-ci.org/DivyaDeenan/Jasmine-Karma-CI)
