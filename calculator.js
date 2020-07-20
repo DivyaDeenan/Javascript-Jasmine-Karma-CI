@@ -55,7 +55,7 @@ Calculator.prototype.divide = function (number) {
  */
 Object.defineProperty(Calculator.prototype, 'version', {
   get: function () {
-    return fetch('https://gist.githubusercontent.com/juanlizarazo/4b2d229ba483ca13b1a6d7bf3079dc8b/raw/228ac05e04118037be02c38d9b86945c1356a2e2/version.json')
+    return fetch('https://gist.githubusercontent.com/DivyaDeenan/55b148ce98af83c1ea6b7097d135dbd2/raw/003c322d70b880172b4b9894d5f490a5dc25901a/version.json')
       .then(function (result) {
         return result.json()
       })
